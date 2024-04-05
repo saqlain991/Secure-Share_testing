@@ -49,8 +49,8 @@ function Upload() {
       userName:user?.fullName,
       password:'',
       id:docId,
-      // shortUrl: process.env.NEXT_PUBLIC_DOMAIN + docId, // This is the orignal one.
-      shortUrl: `${process.env.NEXT_PUBLIC_DOMAIN}/f/${docId}`, // This is not-orignal one.
+      shortUrl: process.env.NEXT_PUBLIC_DOMAIN + docId, // This is the orignal one.
+      // shortUrl: `${process.env.NEXT_PUBLIC_DOMAIN}/f/${docId}`, // This is not-orignal one.
     });
     
   }
