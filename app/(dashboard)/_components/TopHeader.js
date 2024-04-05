@@ -10,7 +10,7 @@ function TopHeader({setToggleBar}) {
     md:justify-end'>
         <AlignJustify className='md:hidden'
         onClick={()=>setToggleBar(true)}/>
-        <Image src='/logo.svg'
+        <Image src='/logo.png'
         alt='logo'
          width={150} height={100} 
          className='md:hidden cursor-pointer'

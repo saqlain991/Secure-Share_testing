@@ -51,7 +51,7 @@ export default function Page() {
             href="/"
           >
             <span className="sr-only">Home</span>
-           <Image src='/logo.svg' width={150} 
+           <Image src='/logo.png' width={150} 
            alt="logo"
            height={100} />
           </a>
