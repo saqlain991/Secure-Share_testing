@@ -74,7 +74,7 @@ export const EmailTemplate = ({
               </Text>
 
               <Text style={paragraph}>
-                Now You can also share file with Tubegurji FileSharo App
+                Now You can also share file with Secure Share App
               </Text>
               <Text style={{  marginTop: -5 }}>
                 Click Below Button to Access your file
@@ -105,8 +105,8 @@ export const EmailTemplate = ({
             color: 'rgb(0,0,0, 0.7)',
           }}
         >
-          © 2024 | Tubegurji @2024 Copyrights
-          U.S.A. | www.Tubeguruji.com
+          © 2024 | SecureShare @2024 Copyrights
+          U.S.A. | www.secure-share-app-vercel.app
         </Text>
       </Container>
     </Body>
